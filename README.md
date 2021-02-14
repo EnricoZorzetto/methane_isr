@@ -8,11 +8,12 @@ Methane fluxes and Intermittent surface renewals
 
 ### Installation
 
-The python code requires Python 3.8 and common scientific packages (Numpy, Scipy, Matplotlib, Pywavelets, and Scikit-Learn). We recomment setting up a conda environment as follows:
+The python code requires Python 3.8 and common scientific packages (Numpy, Scipy, Matplotlib, Pywavelets, and Scikit-Learn). We recomment using Anaconda and setting up a conda environment as follows
 
 ```
-$ git clone repo /wherever/you/like/
 $ cd /wherever/you/like/
+$ git clone repository_link
+$ cd /methane_isr/
 $ conda env create --file environment.yaml 
 $ conda activate methane
 ```
