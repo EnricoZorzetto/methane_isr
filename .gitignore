@@ -6,6 +6,15 @@ __pycache__/
 # C extensions
 *.so
 
+# exclude folder with data and plots
+methane_data/
+data_methane/
+output_plot/
+output_data/
+
+# pycharm stuff
+.idea/
+
 # Distribution / packaging
 .Python
 build/
