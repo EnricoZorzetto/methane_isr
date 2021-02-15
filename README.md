@@ -2,7 +2,7 @@
 
 This repository contain python codes to analyze atmospheric turbulence measurements (wind velocity and scalar time series)
 
-The software computes scalar fluxes using eddu covariance, wavelets, and surface renewal theory techniques, with a focus on partitioning fluxes of quantities characterized by intermittent sources at the ground (such as methane over natural wetlands). 
+The software computes scalar fluxes using eddy covariance, wavelets, and surface renewal theory techniques, with a focus on partitioning fluxes of quantities characterized by intermittent sources at the ground (such as methane emissions over natural wetlands). 
 
 Methane fluxes and Intermittent surface renewals
 
